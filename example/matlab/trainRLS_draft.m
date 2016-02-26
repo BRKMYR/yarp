@@ -1,6 +1,5 @@
 %% This function loads a 1*4096 YarpMonoImage, converts it into a matrix and 
 % trains the classifier GURLS. 
-% Author: Niklas Barkmeyer, 25.02.
 
 %% YARP Port / Load Image
 LoadYarp;
